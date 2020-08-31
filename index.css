@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+#Header { background-image: url( alexis-minchella-wTSXKJBtznA-unsplash.jpg);
+	      background-size:cover;
+	      padding: 150px; }
+#Header p{font-size:20px;color: antiquewhite;text-align: center; padding: 200px;}
+.contact {color:midnightblue; 
+	      background-color: aqua;
+          border-radius: 20px;
+	      text-align: center;
+	      font-size: 15px;
+	      padding-bottom: 10px;
+	      padding-top: 10px;
+          border:none;
+	      display: block;
+	      margin-left:auto;
+	      margin-right:auto;
+}
+.contact:hover{background-color: midnightblue;color:aqua}
+#Header h3 { float:left;color:darkblue}
+#Header h4 { float: right;color:darkblue}
+#Header h1{ padding: 100px; text-align: center;color:antiquewhite;}
+#h3 { background-color:antiquewhite;padding: 50px;height:250px;text-align: center}
+#h3 h3{ font-size: 120%;}
+#hinh1 {float:left;padding-left: 15px;
+	Width:32%; color:saddlebrown}
+#hinh1 p{color:indianred}
+#hinh2 {float:left;
+        Width:32%;
+        color:saddlebrown}
+#hinh2 p{color:indianred}
+#hinh3 {float:left;
+        Width:32%;
+        color:saddlebrown}
+#hinh3 p{color:indianred}
+#phan4 {background-image: url( grillot-edouard-r157SRsQ6dY-unsplash.jpg);
+	    background-size:cover; 
+	padding: 270px;}
+#phan4 h2{color:aqua; text-align: center;font-size:30px;padding-bottom: 50px}
+#phan4 { text-align: center}
+#icon {color:white; font-size:20px; float:left;width:32%; padding-left: 15px; text-align: center; }
+#icon2 {color:white; font-size:20px; float:left;width:32%; text-align: center }
+#icon3 {color:white; font-size:20px; float:left;width:32%; text-align: center }
+#phan5 {background-color: skyblue; padding: 50px;height: 250px; color:midnightblue; text-align: center; font-size:12px}
+#icon4{ font-size: 60px; color: darkgray; padding-top: 20px}
+#phan5 h4{color:saddlebrown}
+#phan5 h3{color:red}
+#phan6 {background-color: darkgray;padding-top: 2px;text-align: center; padding-bottom: 2px;height:55px}
+#movetop {
+	display:block;
+	position: fixed;
+	z-index: 99;
+	bottom: 35px;
+	right: 35px;
+	font-size:35px;
+	float: right;
+	background-color:lightgreen;
+	border-radius:10px;
+	height: 55px;
+	width: 55px;
+}
+#movetop:hover{background-color:palevioletred}
+
+
+
+
+
+	    
+	
+	  
+	
+        
+
+
